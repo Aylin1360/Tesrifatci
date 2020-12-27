@@ -18,7 +18,7 @@ async def hakan(ctx, *, questions):
     responses = ['Benimle uğraşma Hakan!',
                   'Ne var Hakan?',  
                   'Yine noldu Hakan?',
-                  'Hakan, botun mu var burda çağırıp duruyorsun?',
+                  'Hakan, botun mu var burda çağırıp duruyorsun!',
                   'Hakan, git Alple uğraş.',
                   'Dükkanı kapattık Hakan.',
                   'Mesajını bırak Hakan, mesai saatleri içerisinde döneriz.']
