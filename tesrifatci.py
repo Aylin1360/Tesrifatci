@@ -74,6 +74,6 @@ async def hakan(ctx, *, questions):
     await ctx.send(random.choice(responses))
 
 #client.run(config.KEY)
-client.run("NzkyNzY0MDgwNjQ4NjE3OTg0.X-idFQ.6uHjNVNO9thxKCjCi6otVfClKZo")
+client.run("NzkyNzY0MDgwNjQ4NjE3OTg0.X-idFQ.nQHJsA_gF3dutsq_3CAD3Ygzxr0")
 
 
