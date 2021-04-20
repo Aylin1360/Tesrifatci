@@ -73,5 +73,5 @@ async def hakan(ctx, *, questions):
                   'Mesajını bırak Hakan, mesai saatleri içerisinde döneriz.']
     await ctx.send(random.choice(responses))
 
-#client.run(config.KEY)
+client.run(config.KEY)
 
