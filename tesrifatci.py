@@ -12,7 +12,7 @@ import config
 client = commands.Bot(command_prefix = '%')
 tmdb = TMDb()
 
-tmdb.api_key = "61a0cf5912e4a1d5368cf9b4871e0b46" #config.API_KEY
+tmdb.api_key = config.API_KEY
 tmdb.language = 'en'
 tmdb.debug = True
 
@@ -74,6 +74,4 @@ async def hakan(ctx, *, questions):
     await ctx.send(random.choice(responses))
 
 #client.run(config.KEY)
-client.run("NzkyNzY0MDgwNjQ4NjE3OTg0.X-idFQ.nQHJsA_gF3dutsq_3CAD3Ygzxr0")
-
 
