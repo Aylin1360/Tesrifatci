@@ -1,1 +1,1 @@
-worker: python tesrifatci.py
+worker: python Tesrifatci-BOT/tesrifatci.py
