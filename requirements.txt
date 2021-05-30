@@ -1,3 +1,4 @@
+aio-timers==0.0.1
 aiohttp==3.7.4.post0
 appdirs==1.4.4
 astroid==2.4.2
