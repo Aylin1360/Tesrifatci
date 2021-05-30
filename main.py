@@ -7,12 +7,15 @@ from tmdbv3api import Movie
 import asyncio
 from aio_timers import Timer
 
-import config
+#import config
+import os
 
 client = commands.Bot(command_prefix = '%')
 tmdb = TMDb()
 
-tmdb.api_key = config.API_KEY
+#tmdb.api_key = config.API_KEY
+tmdb.api_key = os.environ['API_KEY']
+
 tmdb.language = 'en'
 tmdb.debug = True
 
@@ -73,5 +76,6 @@ async def hakan(ctx, *, questions):
                   'Mesajını bırak Hakan, mesai saatleri içerisinde döneriz.']
     await ctx.send(random.choice(responses))
 
-client.run(config.KEY)
+#client.run(config.KEY)
+client.run(os.environ['KEY'])
 
