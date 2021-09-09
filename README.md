@@ -14,7 +14,7 @@ It is an Discord bot that fetches movie information, sets showtime, break durati
 * Paste your TOKEN within main.py
 
 ###  TMDb
-To be able fetch information for the movies, Tesrifatci uses TMDb database. Visit [TBDb Developers page](https://developers.themoviedb.org/3/getting-started/introduction) and generate your key. ,/> 
+To be able fetch information for the movies, Tesrifatci uses TMDb database. Visit [TBDb Developers page] (https://developers.themoviedb.org/3/getting-started/introduction) and generate your key. /> 
 Then replace this line: tmdb.api_key = os.environ['API_KEY']
 
 ### asyncio
