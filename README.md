@@ -28,5 +28,5 @@ More information can be found here: https://pypi.org/project/asyncio/
 | gösterim | %gösterim(int) | Pings everyone, stars a countdown for spesified minitues |
 | ara | %ara(int) | Stars a count down for movie break |
 | cancel | %cancel | Cancels the countdown |
-| hakan | %hakan(string) | It bother our friend Hakan with random context |      
+| hakan | %hakan(string) | It bothers our friend Hakan with random context |      
 
