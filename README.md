@@ -21,6 +21,8 @@ Then replace this line: tmdb.api_key = os.environ['API_KEY']
 Tesrifatci uses this library in order to keep track of the time. </br>
 More information can be found here: https://pypi.org/project/asyncio/
 
+## Usage
+
 | Command      | Usage | Description | 
 | :----------- | :----------- | :----------- |
 | help | %help() | |
