@@ -22,7 +22,7 @@ Tesrifatci uses this library in order to keep track of the time. </br>
 More information can be found here: https://pypi.org/project/asyncio/
 
 | Command      | Usage | Description | 
-| :----------- | :----------- | | :----------- |
+| :----------- | :----------- | :----------- |
 | help | %help() | |
 | vizyon aliases=['vizyonda'] | %vizyon(string)  | returns movie title, relase date, overview, average vote |
 | gösterim | %gösterim(int) | Pings everyone, stars a countdown for spesified minitues |
