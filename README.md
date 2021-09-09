@@ -1,7 +1,7 @@
 # Tesrifatci-BOT
 
 ## Invite the Bot
-[![](https://image.flaticon.com/icons/png/512/1999/1999142.png = 250px)](https://discord.com/api/oauth2/authorize?client_id=792764080648617984&permissions=8&scope=bot)
+[![](https://image.flaticon.com/icons/png/512/1999/1999142.png | width= 100 )](https://discord.com/api/oauth2/authorize?client_id=792764080648617984&permissions=8&scope=bot)
 
 ## To Host or Copy the Bot
 * Clone this repo
